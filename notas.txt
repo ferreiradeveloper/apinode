@@ -4,4 +4,4 @@
 4-> creamos el fichero principal: app.js
 --
 --
-instalando modulo cors: npm install cors
+instalando modulo cors: npm install cors 
