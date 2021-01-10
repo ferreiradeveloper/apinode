@@ -1,0 +1,7 @@
+1-> desde la terminal : npm init -y para iniciar el proyecto (esto nos creara el package.json)
+2-> instalamos express : npm install express --save (--save para que se guarde en la lista de dependencias)
+3-> instalamos mysql: npm install mysql
+4-> creamos el fichero principal: app.js
+--
+--
+instalando modulo cors: npm install cors
